@@ -1,7 +1,7 @@
 import React from "react";
 
 // Import FontAwesomeIcon component
-import { faCirclez } from "@fortawesome/free-solid-svg-icons";
+import { faZ } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Importing Component
@@ -14,12 +14,12 @@ function Header() {
         <h1>Anime Empire</h1>
       </a>
       <a
-        href="https://github.com/swapnilsparsh/ChatSociety"
+        href="https://projz.com/s/c/AnimeEmpireaat"
         className="git-icn"
         target="_blank"
         rel="noreferrer"
       >
-        <FontAwesomeIcon size="3x" icon={faCirclez} />
+        <FontAwesomeIcon size="3x" icon={faZ} />
       </a>
       <Signout />
     </header>
