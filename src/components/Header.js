@@ -1,7 +1,7 @@
 import React from "react";
 
 // Import FontAwesomeIcon component
-import { fa-solid fa-circle-z } from "@fortawesome/free-solid-svg-icons";
+import { fasolid ,facirclez } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Importing Component
