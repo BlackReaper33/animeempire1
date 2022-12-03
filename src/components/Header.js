@@ -1,7 +1,7 @@
 import React from "react";
 
 // Import FontAwesomeIcon component
-import { facircle-z } from "@fortawesome/free-brands-svg-icons";
+import { facirclez } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Importing Component
@@ -19,7 +19,7 @@ function Header() {
         target="_blank"
         rel="noreferrer"
       >
-        <FontAwesomeIcon size="3x" icon={facircle-z} />
+        <FontAwesomeIcon size="3x" icon={facirclez} />
       </a>
       <Signout />
     </header>
