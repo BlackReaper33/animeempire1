@@ -1,7 +1,7 @@
 import React from "react";
 
 // Import FontAwesomeIcon component
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { facirclez } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Importing Component
