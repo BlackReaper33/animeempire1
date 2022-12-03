@@ -19,7 +19,7 @@ function Header() {
         target="_blank"
         rel="noreferrer"
       >
-        <FontAwesomeIcon size="3x" icon={faGithub} />
+        <FontAwesomeIcon size="3x" icon={facirclez} />
       </a>
       <Signout />
     </header>
