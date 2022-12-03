@@ -10,8 +10,8 @@ import Signout from "./Signout";
 function Header() {
   return (
     <header>
-      <a href="http://chatsociety.netlify.app/">
-        <h1>Chat Society</h1>
+      <a href="https://animeempire.netlify.app/">
+        <h1>Anime Empire</h1>
       </a>
       <a
         href="https://github.com/swapnilsparsh/ChatSociety"
